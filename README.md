@@ -19,6 +19,10 @@ I love learning new things and exploring my potential!
 - mySQL
 - MongoDB
 
+## Goals
+As of 2024, I plan on being more active on this platform and track my progress through:
+- Showcasing some of my major uni/work projects
+- Sharing my side projects and random codes I've done
 <!--
 **mryvllnv/mryvllnv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
