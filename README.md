@@ -5,7 +5,7 @@ I am a **Cyber Security** undergraduate at **UDST** and an intern at **Cyber TTP
 I have a diploma in **Software** from **CNA-Q**. <br>
 I love learning new things and exploring my potential!
 - 🌱 I’m currently learning **Penetration Testing**, **Digital Forensics**, and **Network Security**
-- 🖥 Also currently working towards **Palo Alto's Firewalls Essentials** certification
+- 🖥 Also currently working towards **Palo Alto's Firewall Essentials** certification
 - 🪷 I also dabble in **Web Development** and **AI**!
 - 💛 I love playing the guitar, crocheting, and gaming
 
